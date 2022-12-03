@@ -4,6 +4,7 @@
  I created this module with the desire to have a tool as simple as possible to be able to create an online site quickly and visually, with all the advantages of dynamic content management and the immediacy of an app like Google Docs (Gdocs in short), which we are all used to working with.
  
  Check the following links to discover more on that:
+ <br>
  https://medium.com/@danilo_fiumi/gfetch-your-next-cms-for-static-websites-59dcaabde377 <br>
  https://danilofiumi.github.io/blog-gfetch.html <br>
  https://observablehq.com/@danilofiumi/html-rendering-gfetch-module <br>

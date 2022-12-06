@@ -55,6 +55,6 @@ To customize it with your own content, simply follow the steps below:
 - Paste the link into the div with id=”link”
 - Update the HTML elements in index.html so that “id” attributes match the keys
 
-for the detailed guide on how to configure document rights so that it communicates with index.html I refer to this viedo or to the guide on my [personal website](https://danilofiumi.github.io/blog-gfetch) (ITA only):
+for the detailed guide on how to configure document rights so that it communicates with index.html I refer to [this video](https://www.youtube.com/embed/eHjYMJSfSjc) or to the guide on my [personal website](https://danilofiumi.github.io/blog-gfetch) (ITA only):
 
 [![Gfetch.js](https://img.youtube.com/vi/eHjYMJSfSjc/0.jpg)](https://www.youtube.com/embed/eHjYMJSfSjc)

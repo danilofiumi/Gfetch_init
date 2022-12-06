@@ -18,7 +18,9 @@
 ## How to use it?
 Let’s clone the repo on github with the following command:
 <br>
+<br>
 ```git clone https://github.com/danilofiumi/Gfetch_init```
+<br>
 <br>
 You will get 3 files: <br>
 NB: This file arrangement is absolutely prototypical and is intentionally simplified to give as many people as possible a chance to understand how it works and how to use it. For possible improvement proposals, take a look at section 6.

@@ -56,4 +56,4 @@ To customize it with your own content, simply follow the steps below:
 
 for the detailed guide on how to configure document rights so that it communicates with index.html I refer to this viedo or to the guide on my (personal website)[https://danilofiumi.github.io/blog-gfetch] (ITA only):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eHjYMJSfSjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Gfetch.js](https://img.youtube.com/vi/eHjYMJSfSjc/0.jpg)](https://www.youtube.com/embed/eHjYMJSfSjc)

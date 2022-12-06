@@ -17,14 +17,15 @@
 
 ## How to use it?
 Let’s clone the repo on github with the following command:
-
+<br>
 ```git clone https://github.com/danilofiumi/Gfetch_init```
-You will get 3 files:
+<br>
+You will get 3 files: <br>
 NB: This file arrangement is absolutely prototypical and is intentionally simplified to give as many people as possible a chance to understand how it works and how to use it. For possible improvement proposals, take a look at section 6.
 
-Gfetch.js: The main module described in the following [Notebook](https://observablehq.com/@danilofiumi/html-rendering-gfetch-module) and exported in JavaScript
-index.full.js: A reworked setup file that enables the Observable runtime. This to have continuity with what has been described previously.
-index.html: Main HTML file in which the Google docs code will be injected.
+Gfetch.js: The main module described in the following [Notebook](https://observablehq.com/@danilofiumi/html-rendering-gfetch-module) and exported in JavaScript <br>
+index.full.js: A reworked setup file that enables the Observable runtime. This to have continuity with what has been described previously. <br>
+index.html: Main HTML file in which the Google docs code will be injected. <br>
 
 Let’s open the index.html file.
 The only elements that allow the module to work are the 5 below:
